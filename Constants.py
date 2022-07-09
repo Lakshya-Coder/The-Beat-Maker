@@ -1,0 +1,7 @@
+APP_NAME = 'The Beat Maker'
+
+WIDTH = 1440
+HEIGHT = 800
+
+BPM = 240
+FPS = 60
