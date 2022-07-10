@@ -31,7 +31,7 @@ load_menu = False
 
 file = open('saved_beats.txt', 'r')
 saved_beats = list(file)
-pygame.mixer.set_num_channels(instruments * 5)
+pygame.mixer.set_num_channels(instruments * 20)
 
 # loading sounds
 hi_hat = mixer.Sound('sounds/hi hat.WAV')
