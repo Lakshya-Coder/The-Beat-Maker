@@ -411,7 +411,7 @@ while run:
                     index = 100
                     load_menu = False
         elif event.type == pygame.TEXTINPUT and typing:
-            beat_name += event.text
+            beat_name += event.textM
         elif event.type == pygame.KEYDOWN and not save_menu and not load_menu:
             if event.key == pygame.K_SPACE:
                 playing = not playing
