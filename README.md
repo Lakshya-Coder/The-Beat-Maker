@@ -1,3 +1,16 @@
+# The Beat Maker 🎹🔊A
+This is an simple implementation of a beat maker in Python! 🎵 The project can run smoothly on any device that supports the Python language. 🖥️
+
+## Learning
+I had an amazing learning experience with this project! 😃💡 I discovered how to store or load beats using a simple text file, create dynamic UI elements with basic math, and generate awesome sounds. 🎵📝🔧 
+
+## 🔧 Prerequisites 🔧
+
+To successfully run this project, make sure you have the following:
+
+- ✅ Python 3.10 or above
+- ✅ Pygame module 🎮
+
 ## Running the Beat Maker
 
 1. Open up a terminal
