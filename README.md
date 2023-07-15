@@ -1,4 +1,4 @@
-# The Beat Maker 🎹🔊A
+# The Beat Maker 🎹🔊
 This is an simple implementation of a beat maker in Python! 🎵 The project can run smoothly on any device that supports the Python language. 🖥️
 
 ## Learning
