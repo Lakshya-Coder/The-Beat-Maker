@@ -11,15 +11,6 @@ To successfully run this project, make sure you have the following:
 - ✅ Python 3.10 or above
 - ✅ Pygame module 🎮
 
-## Running the Beat Maker
-
-1. Open up a terminal
-2. Install Pygame module: `pip3 install pygame` (if not already installed)
-3. Clone the repository: `git clone https://github.com/Lakshya-Coder/The-Beat-Maker`
-4. Navigate to the project directory: `cd The-Beat-Maker`
-5. Run the main script: `python3 main.py`
-
-
 ## 🎵 Running the Beat Maker 🎵
 
 Run these command to run this project:
