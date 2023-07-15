@@ -1,8 +1,6 @@
 # The Beat Maker 🎹🔊
 This is an simple implementation of a beat maker in Python! 🎵 The project can run smoothly on any device that supports the Python language. 🖥️
 
-[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/lakshyagupta7080/)
-
 ## Learning
 I had an amazing learning experience with this project! 😃💡 I discovered how to store or load beats using a simple text file, create dynamic UI elements with basic math, and generate awesome sounds. 🎵📝🔧 
 
