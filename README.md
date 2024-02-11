@@ -13,7 +13,7 @@ To successfully run this project, make sure you have the following:
 
 ## 🎵 Running the Beat Maker 🎵
 
-Run these command to run this project:
+Run these commands to run this project:
 
 ```bash
 git clone https://github.com/Lakshya-Coder/The-Beat-Maker
